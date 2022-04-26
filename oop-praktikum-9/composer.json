@@ -1,0 +1,15 @@
+{
+    "name": "praktikum/oop-praktikum-9",
+    "description": "Praktikum 9 Pemrograman Berbasis Web Lanjutan",
+    "autoload": {
+        "psr-4": {
+            "Praktikum\\OopPraktikum9\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sabarudin"
+        }
+    ],
+    "require": {}
+}
